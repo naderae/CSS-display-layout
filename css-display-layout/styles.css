@@ -1,0 +1,65 @@
+header h1{
+  background-color: gray;
+  text-align: center;
+  padding: 10px 10px;
+  color: white;
+  margin-bottom: 0;
+}
+nav li{
+  display: inline-block;
+  background-color: silver;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+nav ul{
+  text-align: center;
+  margin-top: 0;
+}
+
+p.frame {
+  background-color: yellow;
+  text-align: center;
+}
+
+
+main h4{
+  background-color: rgb(88, 214, 141);
+  font-size: 25px;
+  padding: 8px;
+  width:70%;
+  margin:auto;
+}
+
+strong{
+  border-bottom: 2px solid yellow;
+  font-weight: bolder;
+}
+
+.frame p{
+  background-color: yellow;
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.gallery{
+  width: 1000px;
+  margin: auto;
+}
+
+.frame{
+  display: inline-block;
+}
+footer{
+  background-color: black;
+  color:white;
+  text-align: center;
+  padding: 5px;
+  width:80%;
+  margin:auto;
+}
